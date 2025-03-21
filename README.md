@@ -39,7 +39,7 @@ regression-visualization-app/
 ├── src/
 │   ├── components/
 │   │   ├── ScatterPlot.js
-│   │   ├── RegressionLine.js
+│   │   ├── RegressionChart.js
 │   │   └── Controls.js
 │   ├── App.js
 │   ├── index.js
