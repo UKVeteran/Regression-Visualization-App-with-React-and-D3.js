@@ -84,5 +84,4 @@ Feel free to fork, contribute, or suggest improvements via GitHub!
 
 ---
 
-Let me know when you're ready, and I can generate the component code and more detailed explanations. 😊
 
